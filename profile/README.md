@@ -1,4 +1,4 @@
-## H II Turbulence
+# H II Turbulence
 
 Umbrella organization for projects related to:
 
@@ -6,13 +6,7 @@ Umbrella organization for projects related to:
 2. Dynamics and kinematics of H II regions more generally
 3. (Aspirationally) dynamic and kinematics of neutral/molecular gas around H II regions
 
-<!--
+## Projects
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [turb-t2-paper](https://github.com/will-henney/turb-t2-paper) Pair of papers in preparation on the contribution of internal turbulence to temperature fluctuations in H II regions
+- [mariano-velocity-statistics](https://github.com/will-henney/mariano-velocity-statistics) Lots of historical material from 2019 to 2022, including early notes on material that ended up in Javier's thesis
