@@ -6,6 +6,8 @@ Umbrella organization for projects related to:
 2. Dynamics and kinematics of H ɪɪ regions more generally
 3. (Aspirationally) dynamic and kinematics of neutral/molecular gas around H ɪɪ regions
 
+## [Discussions](https://github.com/orgs/hii-turbulence/discussions)
+
 ## Projects
 
 - [turb-t2-paper](https://github.com/will-henney/turb-t2-paper) Pair of papers in preparation on the contribution of internal turbulence to temperature fluctuations in H ɪɪ regions
