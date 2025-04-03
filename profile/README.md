@@ -18,3 +18,5 @@ Umbrella organization for projects related to:
 	- [BigFiles](https://www.dropbox.com/scl/fo/hliiglgt8j0gsxny8kb02/AEEM0nUsVLn5LPYxDpwcEKg?rlkey=2u4s1oh9hpbdse2woo5gcecw6&dl=0)
 - [orion-widths](https://github.com/will-henney/orion-widths) A moribund project from 2016–2018 that tries to determine kinetic temperatures from differences in line widths of light and heavy ions. It may be worth resurrecting 
 - [depattern-maps](https://github.com/will-henney/depattern-maps) Remove the tartan pattern from the MUSE velocity and width maps
+- [orion_muse](https://github.com/JavGVastro/orion_muse): [PhD.Paper](https://github.com/JavGVastro/PhD.Paper) methodology applied to some lines in [orion-muse](https://github.com/will-henney/orion-muse)
+- [orion_comprehensive_strucfunc](https://github.com/JavGVastro/orion_comprehensive_strucfunc): Strucutre functions [orion_muse](https://github.com/JavGVastro/orion_muse) results + [PhD.Paper](https://github.com/JavGVastro/PhD.Paper) results / state-art (KPNO echelle, previous data) for Orion Nebula (M 42)  
